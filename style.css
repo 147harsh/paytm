@@ -1,0 +1,211 @@
+.logo
+{
+    width: 200px;
+}
+.sign
+{
+    background-color: #00baf2;
+    padding: 8px;
+    border-radius: 20px;
+}
+.sign:hover
+{
+    background-color: #002970;
+    padding: 8px;
+    border-radius: 20px;
+}
+.dropdown:hover
+{
+    background-color:#ebedf0
+}
+.nav-item:hover
+{
+    background-color:#ebedf0
+}
+.paytm
+{
+    width: 100px;
+}
+.mobile
+{
+    width:80%;
+}
+.blue
+{
+    background-color:#00baf2;
+}
+.Recharge
+{
+    width: 80px;
+}
+.Recharge1
+{
+     width: 80px;
+}
+.pay,.pay1,.pay2,.pay3
+{
+    padding: 10px;
+}
+.pay:hover
+{
+   background-color: #00afe3;
+   /* padding: 10px; */
+   /* height: 180px; */
+   border-radius: 15px;
+   transform: scale(1.05);
+}
+.pay1:hover
+{
+   background-color: #00afe3;
+   /* padding: 10px; */
+   /* height: 205px; */
+   border-radius: 15px;
+   transform: scale(1.05);
+}
+.darkblue
+{
+    background-color: #002970;
+}
+.pay2:hover
+{
+    background-color: #062957;
+    /* padding: 10px; */
+    border-radius: 15px;
+    /* height: 155px; */
+    transform: scale(1.05);
+}
+.pay3:hover
+{
+    background-color: #062957;
+    /* padding: 10px; */
+    border-radius: 15px;
+    /* height: 175px; */
+    transform: scale(1.05);
+}
+.grey
+{
+    background-color: #f5f7fa;
+}
+.phone
+{
+    width: 100%;
+}
+.wallet
+{
+    width: 20%;
+}
+.postpaid
+{
+    width: 35%
+}
+.more
+{
+    background-color:#002970;
+    color: white;
+    padding: 15px;
+    border-radius: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.more:hover
+{
+    background-color:#00baf2;
+    color: white;
+    padding: 15px;
+    border-radius: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.postpaidimg
+{
+    width: 90%;
+}
+.hdfc
+{
+    width: 80%;
+}
+.white
+{
+    background-color: white;
+}
+.bg
+{
+    background-image: url(./Image/gray-spike.avif);
+    background-size: cover;
+    min-height: 500px;
+    max-height: 620px;
+    background-color:#f5f7fa;
+}
+.moneyimg
+{
+    width: 80%;
+}
+.money
+{
+    width: 25%;
+}
+.grow
+{
+    margin-left: 30px;
+}
+.grow1
+{
+    margin-left: 80px;
+}
+.grow2
+{
+    margin-left: 50px;
+}
+.grow3
+{
+    margin-left: 90px;
+}
+.ht 
+{
+    height: 200px;
+}
+.learn
+{
+    text-decoration: none;
+    color: #00baf2;
+}
+.learn:hover
+{
+    text-decoration: none;
+    color: #002970;
+}
+.ptmoney
+{
+    width: 80%;
+}
+.stock
+{
+    height: 280px;
+    width: 200px;
+    background-color: #00baf2;
+}
+.stock1
+{
+    height: 325px;
+    width: 200px;
+    background-color: #00baf2;
+}
+.stockimg
+{
+    width: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.stockimg:hover
+{
+    transform: scale(1.05); 
+}
+.invest
+{
+    margin-left: 50px;
+}
+.shadow1
+{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.664);
+}
